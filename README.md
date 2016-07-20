@@ -1,4 +1,4 @@
-# PopeSites Landing Page
+# Business Landing Page
 
 In order for us to have a pressence on Google and to start getting some business, we need to have a home base. This home base must be a website where we can host our portfolio so potential clients can see our work before they contact us. So, the first order of business is to create a portfolio with all of our past works. This will make it easy for clients to see what we are capable of, and what we can do for them.
 
