@@ -5,3 +5,7 @@ In order for us to have a pressence on Google and to start getting some business
 ## GitHub Pages
 
 If possible, I propose that we setup the portfolio on GitHub pages so that we don't have to pay for any hosting. Firstly, we must come up with an operating name that we can all agree on, so I will begin brainstorming names. Will update this with a list of potential names shortly...
+
+## Business Name
+
+This is the most difficult part of starting a business. We need to come up with a name where we can all operate under so that it promotes teamwork.
